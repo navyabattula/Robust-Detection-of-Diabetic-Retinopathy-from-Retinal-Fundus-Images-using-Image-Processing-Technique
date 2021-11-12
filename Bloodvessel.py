@@ -2,7 +2,7 @@
 """
 Created on Mon Jun 29 18:52:36 2020
 
-@author: bsr
+@author: Navya
 """
 
 import cv2 as cv
